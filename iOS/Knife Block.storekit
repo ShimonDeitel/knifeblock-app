@@ -1,0 +1,40 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Knife Block Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.49",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2100001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlimited knives and sharpening-log history",
+              "displayName": "Knife Block Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.knifeblock.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Knife Block Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
